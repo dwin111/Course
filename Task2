@@ -2,15 +2,15 @@ public class Program
 {
     static void Main(String[] args)
     {
-         bool _canBuy = true;
-         byte _timePerLevel = 255;
-         int _numberOfHearts = 10;    
-         uint _numberOfLevels = 60;
-         ulong _numberOfCoins = 10000000000;
-         float _movementSpeed = 9.8f;
-         double _idPlayer = 245976216476876216;
-         decimal _ageOfTheEarth = 45400000000;
-         string _name = "Дмитрий";
-         char _class = 'A';   
+         bool canBuy = true;
+         byte timePerLevel = 255;
+         int numberOfHearts = 10;    
+         uint numberOfLevels = 60;
+         ulong numberOfCoins = 10000000000;
+         float movementSpeed = 9.8f;
+         double idPlayer = 245976216476876216;
+         decimal ageOfTheEarth = 45400000000;
+         string name = "Дмитрий";
+         char class = 'A';   
     }
 }
