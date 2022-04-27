@@ -1,17 +1,16 @@
 public class Program 
 {
-    private bool _canIBuy = true;
-    private byte _timePerLevel = 255;
-    private int _numberOfHearts = 10;    
-    private uint _numberOfLevels = 60;
-    private ulong _numberOfCoins = 10000000000;
-    private float _movementSpeed = 9.8f;
-    private double _idPlayer = 245976216476876216;
-    private decimal _ageOfTheEarth = 45400000000;
-    private string _name = "Дмитрий";
-    private char _class = 'A';   
-
     static void Main(String[] args)
     {
+         bool _canBuy = true;
+         byte _timePerLevel = 255;
+         int _numberOfHearts = 10;    
+         uint _numberOfLevels = 60;
+         ulong _numberOfCoins = 10000000000;
+         float _movementSpeed = 9.8f;
+         double _idPlayer = 245976216476876216;
+         decimal _ageOfTheEarth = 45400000000;
+         string _name = "Дмитрий";
+         char _class = 'A';   
     }
 }
